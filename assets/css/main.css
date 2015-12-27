@@ -143,6 +143,7 @@ ul li{
 
 .dashed-orange-border {
     border: 1px dashed #da431c;
+    cursor: crosshair;
 }
 
 .btn {
