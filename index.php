@@ -125,7 +125,7 @@ if (isset($_POST['in']))
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>AMX Form Maker</title>
+	<title>AMX Form Builder</title>
 
 	<link rel="stylesheet" href="assets/css/main.css">
 	<link rel="stylesheet" href="assets/css/form-validation.css">
