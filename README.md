@@ -1,9 +1,6 @@
 AMX Form Builder
 ==============
 
-### *Private Backup Repo*
-
-
 Author: **Afaan Bilal**
 
 Author URL: **[Google+](https://google.com/+AfaanBilal)**
