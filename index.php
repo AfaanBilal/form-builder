@@ -57,6 +57,12 @@ function append_radio($inLabel, $optList)
 
 if (isset($_POST['in']))
 {
+    //purify $_POST
+    foreach ($_POST as $k => $v)
+    {
+        $_POST[$k] = htmlspecialchars($v);    
+    }
+    
     //print_r($_POST['in']);
     $output = str_replace('%title%', $_POST['title'], $output);
     
