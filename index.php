@@ -1,4 +1,15 @@
 <?php
+
+/*
+ *  AMX Form Builder
+ *  (c) 2015 Afaan Bilal
+ *  
+ *  Easily create one-page contact/survey/application forms in seconds!
+ *
+ */
+
+
+
 $output = '<form method="post" class="form-validation"><div class="form-title-row"><h1>%title%</h1></div><h2 style="color:red"><?php echo ($e)? \'Please fill in all the fields.\' : \'\'; ?></h2>';
 $fNum = 0;
 
