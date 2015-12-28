@@ -4,7 +4,7 @@ AMX Form Builder
 Author: **Afaan Bilal([@AfaanBilal](https://github.com/AfaanBilal))**   
 Author URL: **[Google+](https://google.com/+AfaanBilal)**
 
-#### Project Page: [afaanbilal.github.io/form-builder](https://afaanbilal.github.io/form-builder)
+#### Project Page: [afaan.cu.cc/form-builder](http://afaan.cu.cc/form-builder)
 
 #### Demo: [git.cu.cc/form-builder](http://git.cu.cc/form-builder)
 
