@@ -146,11 +146,11 @@ ul li{
 }
 
 .dashed-orange-border:hover, .dashed-orange-border:active {
-    cursor: copy;
+    cursor: move;
 }
 
 .dashed-orange-border label:hover, .dashed-orange-border label:active {
-    cursor: copy;
+    cursor: move;
 }
 
 .btn {
