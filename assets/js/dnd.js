@@ -1,3 +1,13 @@
+
+/*
+ *  AMX Form Builder
+ *  (c) 2015 Afaan Bilal
+ *  
+ *  Easily create one-page contact/survey/application forms in seconds!
+ *
+ */
+
+
 function allowDrop(ev) {
     ev.preventDefault();
 }
