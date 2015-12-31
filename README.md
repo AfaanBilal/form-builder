@@ -21,5 +21,5 @@ the same directory as the php file.
 
 All contributions are welcome. Please create an issue first for any feature request
 or bug. Then fork the repository, create a branch and make any changes to fix the bug 
-or add add the feature and create a pull request. That's it!
+or add the feature and create a pull request. That's it!
 Thanks!
