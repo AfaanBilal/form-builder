@@ -1,9 +1,9 @@
 AMX Form Builder
 ==============
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
-##### Project Page: [afaan.me/form-builder](https://afaan.me/form-builder)
+##### Project Page: [afaan.dev/form-builder](https://afaan.dev/form-builder)
 
 ## Introduction
 **AMX Form Builder** is a web app that helps users create simple HTML forms with 
