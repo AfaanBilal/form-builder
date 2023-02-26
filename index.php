@@ -85,6 +85,8 @@ if (isset($_POST['in']))
         $ps = explode(',',trim($line));
         
         if (count($ps) < 2) continue;
+	    
+	$ps[2] = json_encode($ps[2]);
                         
         switch ($ps[1])
         {
