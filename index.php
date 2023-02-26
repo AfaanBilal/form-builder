@@ -118,7 +118,7 @@ if (isset($_POST['in']))
     $infile = str_replace('[%output%]', $output, $infile);
     $infile = str_replace('[%msg%]', $_POST['msg'], $infile);
     
-    $fn = uniqid('AMX_') . '.php.txt';   
+    $fn = tempnam(sys_get_temp_dir(), uniqid('AMX_') . '.php.txt');   
     file_put_contents($fn, $infile);    
     
     echo "<h2>AMX Form Builder by Afaan Bilal</h2>";
