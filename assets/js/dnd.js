@@ -31,6 +31,8 @@ function drop(ev) {
         flash('Action cancelled by user.', 1500, 'red');
         return;
     }
+	
+    inLabel = inLabel.replace("'", "&apos;");
         
     el.querySelector('span').textContent = inLabel;
     
