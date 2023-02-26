@@ -156,7 +156,7 @@ if (isset($_POST['in']))
 		<h1>AMX Form Builder</h1>
         <div>
             Designed &amp; Developed by 
-            <a href="https://google.com/+AfaanBilal" target="_blank">
+            <a href="https://afaan.dev" target="_blank">
                 <span>Afaan Bilal</span>
             </a>
         </div>
