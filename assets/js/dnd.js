@@ -32,7 +32,7 @@ function drop(ev) {
         return;
     }
 	
-    inLabel = inLabel.replace("'", "&apos;");
+    inLabel = inLabel.replace("'", "\'");
         
     el.querySelector('span').textContent = inLabel;
     
