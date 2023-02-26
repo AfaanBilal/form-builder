@@ -71,7 +71,7 @@ if (isset($_POST['in']))
     //purify $_POST
     foreach ($_POST as $k => $v)
     {
-        $_POST[$k] = htmlspecialchars($v);    
+        $_POST[$k] = json_encode(htmlspecialchars($v));    
     }
     
     //print_r($_POST['in']);
